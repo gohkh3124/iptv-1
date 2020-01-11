@@ -1,10 +1,9 @@
 马
 TV1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 TV2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-TV3,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUzdoEb5B1cpcSNAfnxn2Po)/dm/3/x6qp375/live.m3u8#cell=lsg1&comment=PNI&qos_vpart=1&qos_stail=1
-NTV7,https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxfYplVyV2rDTVmctBxOVY)/dm/3/x6qp6ou/live.m3u8#cell=lsg1&comment=PNI&qos_vpart=1&qos_stail=1
-NTV7,http://cdn.live.52glb.com/live/ml_NTV7.m3u8?stream_id=ml_NTV7&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1577608623&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577608635&ltm=1577608638&netype=3&sand=c50ce57e&auth_key=1577608695-0-0-2df8418f2242662802daa58b5e14de36&ckey=N2I2YTVlYTM0MmE2OGUxZDc4NDZiZmViNDk4Zjg3MDk%3D&sign=e9140c3d7d7c0c400f98c956fa6d041a
-TV8, https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeo393sNMZQ18bVsFc9gHA4)/dm/3/x6qud17/live.m3u8#cell=lsg1&comment=PNI&qos_vpart=1&qos_stail=1
+TV3,https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ4dwF9EVNnyLihK0hJt6Dw)/dm/3/x6qp375/d/live-3.m3u8
+NTV7,https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQl8Lhd5M53B93HjmohX1rc)/dm/3/x6qp6ou/s/live-3.m3u8
+TV8, https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT0sUErY5Tvqok6d_D0KODI)/dm/3/x6qud17/s/live-3.m3u8
 TV9,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX_7p5TsiKU954O4fJJwakw)/dm/3/x6qqja6/s/live-3.m3u8
 
 中国
