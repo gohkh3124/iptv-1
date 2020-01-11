@@ -3,6 +3,7 @@ TV1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b36960
 TV2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 TV3,https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ4dwF9EVNnyLihK0hJt6Dw)/dm/3/x6qp375/d/live-3.m3u8
 NTV7,https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQl8Lhd5M53B93HjmohX1rc)/dm/3/x6qp6ou/s/live-3.m3u8
+ntv7,http://api.52glb.com/gslb/streams?region=MY_01&isp=telecom&tm=1578762174&uuid=9ee7d231-53ff-3161-93db-b0474e115bbd&sign=f719a3f55ef470e502f5d0c5ac139af5&ver=1.0.8&channel_id=hw-ntv7&extra=pointless 
 TV8, https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT0sUErY5Tvqok6d_D0KODI)/dm/3/x6qud17/s/live-3.m3u8
 TV9,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX_7p5TsiKU954O4fJJwakw)/dm/3/x6qqja6/s/live-3.m3u8
 
