@@ -2,7 +2,7 @@
 tv1,https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 tv2,https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 tv3,https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ4dwF9EVNnyLihK0hJt6Dw)/dm/3/x6qp375/live.m3u8#cell=lsg1&comment=TRS&qos_vpart=1&qos_stail=10
-ntv7,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQISubg3Q0yjuFfp905dZso)/dm/3/x6qp6ou/live.m3u8#cell=lsg1&comment=TRS&qos_vpart=1&qos_stail=1
+ntv7,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQISubg3Q0yjuFfp905dZso)/dm/3/x6qp6ou/live.m3u8#cell=lsg1&comment=TRS&qos_vpart=1&qos_stail=1#https://www.dailymotion.com/video/kxm1wihUkjNiINrAqlg
 tv8,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT0sUErY5Tvqok6d_D0KODI)/dm/3/x6qud17/live.m3u8#cell=lsg1&comment=TRS&qos_vpart=1&qos_stail=1
 tv9,https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHULNAoYWDohb5iPuIeXIYtE)/dm/3/x6qqja6/live.m3u8#cell=lsg1&comment=TRS&qos_vpart=1&qos_stail=1
 
