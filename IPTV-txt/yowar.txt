@@ -1,0 +1,76 @@
+马
+TV1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+TV2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+TV3,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUzdoEb5B1cpcSNAfnxn2Po)/dm/3/x6qp375/live.m3u8#cell=lsg1&comment=PNI&qos_vpart=1&qos_stail=1
+NTV7,https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxfYplVyV2rDTVmctBxOVY)/dm/3/x6qp6ou/live.m3u8#cell=lsg1&comment=PNI&qos_vpart=1&qos_stail=1
+NTV7,http://cdn.live.52glb.com/live/ml_NTV7.m3u8?stream_id=ml_NTV7&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1577608623&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577608635&ltm=1577608638&netype=3&sand=c50ce57e&auth_key=1577608695-0-0-2df8418f2242662802daa58b5e14de36&ckey=N2I2YTVlYTM0MmE2OGUxZDc4NDZiZmViNDk4Zjg3MDk%3D&sign=e9140c3d7d7c0c400f98c956fa6d041a
+TV8, https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeo393sNMZQ18bVsFc9gHA4)/dm/3/x6qud17/live.m3u8#cell=lsg1&comment=PNI&qos_vpart=1&qos_stail=1
+TV9,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX_7p5TsiKU954O4fJJwakw)/dm/3/x6qqja6/s/live-3.m3u8
+
+中国
+湖南卫视高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+湖南卫视高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+湖南卫视高清,http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
+湖南卫视高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视高清,https://v4.uhd.app/hls/hunanhd.m3u8
+湖南卫视高清,https://v4.uhd.app/hls/hunantv.m3u8
+江苏卫视高清,http://111.48.34.220:80/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.220_80&hms_devid=1423
+江苏卫视高清,http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
+江苏卫视高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+江苏卫视高清,http://223.110.241.203:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ
+江苏卫视高清,https://v4.uhd.app/hls/jstv.m3u8
+江苏卫视高清,https://v4.uhd.app/hls/jshd.m3u8
+浙江卫视高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8
+浙江卫视高清,http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+浙江卫视高清,http://117.169.72.6:8080/ysten-businessmobile/live/hdzhejiangstv/1.m3u8
+浙江卫视高清,http://183.207.249.133:80/wh7f454c46tw2086896782_-1434612226/ott.js.chinamobile.com/PLTV/3/224/3221227215/index.m3u8
+浙江卫视高清,https://v4.uhd.app/hls/zjtv.m3u8
+浙江卫视高清,http://183.207.248.71/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
+北京卫视高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225975/1.m3u8
+北京卫视高清,http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+北京卫视高清,http://223.110.241.203:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ
+
+特色频道
+Channel[V],https://v4.uhd.app/hls/channelv.m3u8
+
+ASTRO
+GOSHOPCH303,https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+双星,http://cdn.live.52glb.com/live/ml_shuangxing.m3u8?stream_id=ml_shuangxing&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1577609657&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577609717&ltm=1577609721&netype=3&sand=1056f5e0&auth_key=1577609777-0-0-c3587eb3e7b65aa6611bea615804d842&ckey=MWVmNDZjMDkzMjJmNWIxZjc4MTIzZTY3Yzc1ODdkOTM%3D&sign=66cc2b7540c816142bcc10563559904a
+全佳,http://cdn.live.52glb.com/live/ml_quanjia.m3u8?stream_id=ml_quanjia&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1577609585&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577609645&ltm=1577609648&netype=3&sand=48864c44&auth_key=1577609705-0-0-de3ecbddf665079423694db11a62f31c&ckey=YWU3OWY0MTZmZDBiMmQxM2ZmNGY1Mjc1MWM3NjZmMzA%3D&sign=69ca194013e1340ceb53f3b83c0a5254
+AIQIYI,http://cdn.live.52glb.com/live/ml_aiqiyi.m3u8?stream_id=ml_aiqiyi&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1577608335&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577608346&ltm=1577608349&netype=3&sand=a73d58a8&auth_key=1577608406-0-0-ba273f3f8262f62571ce33b1514be155&ckey=ZTMwMjM5MDIyZGQ3NTg0ODFkN2Y5Y2NlMzAwZTdkMTg%3D&sign=7bd8c52f50f7d5cf571b37f85dc6a072
+欢喜台,http://cdn.live.52glb.com/live/ml_huanxi.m3u8?stream_id=ml_huanxi&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1577607416&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577607476&ltm=1577607480&netype=3&sand=286530a2&auth_key=1577607536-0-0-0dbc032213dceaede7dbafc311235775&ckey=MGVkYjkxNTUwYzMzNGU2NDIzOTNhZGUyYWU4ZDgxZTY%3D&sign=5e0c3276b5755bb88ea6bfddd17ea512 
+华丽台, http://cdn.live.52glb.com/live/ml_huali.m3u8?stream_id=ml_huali&cdn=1&tag=live&ext=m3u8&mediatype=hls&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577611553&ltm=1577611557&netype=3&sand=759299d6&auth_key=1577611613-0-0-55d7289d0ca2a47ab941ac2364f58d0b&ckey=NjgzMTg0ZTI3OWIwODVhYmU0Njg3YmMyZjYyMTM2YjU%3D&sign=b6f46e6bd2ab0911150150a43e292eb5
+AEC HD,P2p://217.182.18.136:9906/5bfaa3a40006e263c74f1d6c2d6b6733#P2p://217.182.18.136:9906/5bf11c6e000b4018a1fb77350d787366.ts
+AEC_HD2,p2p://60.249.213.25:9900/569b530400069b9a124fa8404cf001a5.ts
+小太阳,P2p://217.182.18.136:9906/5bfaa614000188eac7598c1322716b15#P2p://217.182.18.136:9906/5bf11d4e00031d45a200347656ac7775.ts
+On Demand,P2p://217.182.18.136:9906/5bfaa61400048b7bc7598cde237506b2#P2p://217.182.18.136:9906/5bf11d4e00086f1ea20035ce505726f9.ts
+
+新
+Channel 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+Channel U,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+Channel U, http://cdn.live.52glb.com/live/ml_channelu-1577609856717.ts?auth_key=1577609929-0-0-291a9b7534c68b015a36b92bb886cba5&appid=495ae25d76c3b45db0242623fb81667f&cid=fa7841926e1e5120845a0b7c5e076bf6&cver=1011&cip=115.135.199.207&geo=MY.0.0.106&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=PAR-LX9&uid=test&uuid=8d5d596f0a6693c7ea97d03aa58079af&stm=1577609870&ltm=1577609873&netype=3&sand=fb6b5c70&stream_id=ml_channelu&cdn=&ckey=NTE3NTlmMjdkYmFhNjIyOWIwZWZiMWZkYzBiMjg1NmI%3D&sign=9c059847a79e1edaef384729be3c5fa5
+
+新-UFM1003,http://20663.live.streamtheworld.com/UFM_1003AAC.aac
+新-好FM963,http://14923.live.streamtheworld.com/HAO_963AAC.aac
+新-973FM,http://www.vtuner.com/vtunerweb/mms/m3u48803.m3u
+新-JiaFM883,http://www.vtuner.com/vtunerweb/mms/m3u620.m3u
+新-Kiss92FM,http://20663.live.streamtheworld.com/KISS_92_SC
+新-Money FM893,http://www.vtuner.com/vtunerweb/mms/m3u90613.m3u
+新-YES 933,https://21333.live.streamtheworld.com/YES933AAC.aac
+馬-988友聲有色,http://starrfm.rastream.com/starrfm-988
+馬-myfm,http://astro1.rastream.com/myfm
+馬-melody,http://astro3.rastream.com/melody
+馬-HITZ,http://astro1.rastream.com/hitz
+馬-LITE,http://astro1.rastream.com/lite
+馬-MIX,http://astro2.rastream.com/mix
+馬-SINAR,http://astro2.rastream.com/sinar
+馬-ERA,http://astro2.rastream.com/era
+馬-SURIAFM,http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+馬-OPUS,http://astro4.rastream.com/opus
+馬-GOLD,http://astro4.rastream.com/gold
+馬-JAZZ,http://astro4.rastream.com/jazz
+馬-ROCK,http://astro4.rastream.com/rock
+馬-THR GEGAR,http://astro3.rastream.com/gegar
+馬-ARENA FM,http://astro1.rastream.com/amp-arena
+馬-HIJRAH FM,http://cloud.tujuh.my:8073/strea
+
